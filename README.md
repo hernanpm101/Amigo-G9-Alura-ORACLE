@@ -18,4 +18,4 @@ Permite ingresar nombres en una lista y luego elegir aleatoriamente quién es el
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (Vanilla)**  
+- **JavaScript**  
